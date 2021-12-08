@@ -1,5 +1,5 @@
-# HsLinRegression
-Linear regression implemented from scratch in Haskell using gradient descent
+# Haskell Linear Regression
+Linear regression implemented **from scratch** in Haskell using gradient descent
 
 ### The following equations were derived from the Mean Square Error (MSE) function
 > Partial derivates are used to find the gradients of the slope (m) and the y-intercept (b) (more info on how they were derived to be included later, but it was fairly basic in terms of difficulty)
